@@ -21,4 +21,6 @@
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
 | <a href="https://softuni.bg/trainings/3038/programming-basics-with-c-sharp-july-2020/open#lesson-17033" > 
 | <a href="https://softuni.bg/trainings/3135/csharp-fundamentals-september-2020"> 
+</td>
+<td>
 </table>
