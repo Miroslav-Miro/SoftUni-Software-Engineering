@@ -15,7 +15,7 @@
 </tr>
 
 <tr>
-
+<td>
 
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
@@ -23,5 +23,5 @@
 | <a href="https://softuni.bg/trainings/3135/csharp-fundamentals-september-2020"> Technology Fundamentals with C# </a> | |
 
 </td>
-
+<td>
 </table>
