@@ -19,8 +19,8 @@
 
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/2179/programming-basics-with-csharp-november-2018" > Programming Basics with C# </a>         | <a href="https://softuni.bg/certificates/details/61829/9a9e18ec"> Link</a> |
-| <a href="https://softuni.bg/trainings/2237/technology-fundamentals-with-csharp-january-2019"> Technology Fundamentals with C# </a> | <a href="https://softuni.bg/certificates/details/65330/35ca2e73"> Link</a> |
+| <a href="https://softuni.bg/trainings/2179/programming-basics-with-csharp-november-2018" > Programming Basics with C# </a>         | |
+| <a href="https://softuni.bg/trainings/2237/technology-fundamentals-with-csharp-january-2019"> Technology Fundamentals with C# </a> | |
 
 </td>
 <td>
