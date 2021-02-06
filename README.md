@@ -14,7 +14,7 @@
   <th> C# </th>
 </tr>
 
-<tr>
+
 <td>
 
 | **Course**                                                            | **Link**                                                   |
