@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _1.HelloSoftUni
+namespace _01.HelloSoftUni
 {
     class Program
     {
