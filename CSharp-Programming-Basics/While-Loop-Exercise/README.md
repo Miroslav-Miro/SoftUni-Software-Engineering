@@ -1,1 +1,1 @@
-# <p align="center"><a href="https://softuni.bg/trainings/resources/officedocument/51155/conditional-statements-advanced-lab-programming-basics-with-c-sharp-july-2020/3038"> Programming Basics with C# - Exams <a/><p>
+# <p align="center"><a href="https://softuni.bg/trainings/resources/officedocument/51162/while-loop-exercises-programming-basics-with-c-sharp-july-2020/3038"> Programming Basics with C# - Exams <a/><p>
