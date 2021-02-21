@@ -1,1 +1,0 @@
-# <p align="center"><a href="https://softuni.bg/trainings/resources/officedocument/51165/nested-loops-exercises-programming-basics-with-c-sharp-july-2020/30388"> Programming Basics with C# - Exams <a/><p>
